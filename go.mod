@@ -1,4 +1,4 @@
-module github.com/easyops-cn/go-wework
+module github.com/whuhyw/go-wework
 
 go 1.14
 
